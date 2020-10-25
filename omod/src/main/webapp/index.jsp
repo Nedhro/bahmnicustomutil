@@ -1,0 +1,8 @@
+<%@ include file="/WEB-INF/template/include.jsp" %>
+
+<%@ include file="/WEB-INF/template/header.jsp" %>
+
+<h2><spring:message code="bahmnicustomutil.title"/></h2>
+<h1>Hello Bangladesh</h1>
+
+<%@ include file="/WEB-INF/template/footer.jsp" %>
